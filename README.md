@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/canoi12">
-  <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/?username=canoi12&show_icons=true&theme=radical" height="200"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=canoi12&show_icons=true&theme=gruvbox" height="200"/>
 </a>
 
 <a href="https://github.com/canoi12">
-  <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/top-langs/?username=canoi12&theme=radical"  height="200"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canoi12&theme=gruvbox&layout=compact"  height="200"/>
 </a>
 
 <p></p>
