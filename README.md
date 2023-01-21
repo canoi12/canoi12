@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="loficity" width="600px" src="https://github.com/canoi12/canoi12/raw/main/photofunky.gif"/>
+</p>
+
 ### Hi there 👋
 
 <!--
@@ -14,9 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img alt="loficity" width="600px" src="https://github.com/canoi12/canoi12/raw/main/photofunky.gif"/>
-</p>
 
 <a href="https://github.com/canoi12">
   <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/?username=canoi12&show_icons=true&theme=radical" height="200"/>
