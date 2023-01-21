@@ -14,14 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/bloedboemmel">
+<img align="center" src="https://www.photofunky.net/output/image/c/6/c/6/c6c6f0/photofunky.gif" />
+
+<a href="https://github.com/canoi12">
   <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/?username=canoi12&show_icons=true&theme=radical" height="200"/>
-  
 </a>
 
-<a href="https://github.com/bloedboemmel">
+<a href="https://github.com/canoi12">
   <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/top-langs/?username=canoi12&theme=radical"  height="200"/>
 </a>
+
 <p></p>
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
